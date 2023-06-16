@@ -1,3 +1,3 @@
 # Information-Extraction-using-Deep-Learning
 
-![image](Poster.pdf)
+![image](Poster.png)
